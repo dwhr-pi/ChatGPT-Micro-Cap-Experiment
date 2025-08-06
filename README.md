@@ -1,5 +1,7 @@
 https://t3n.de/news/chatgpt-100-dollar-investition-1700287/  
 https://www.reddit.com/r/dataisbeautiful/comments/1mc0cz7/oc_4_weeks_of_chatgpt_controlling_a_live_stock/  
+Für Zenbot interessant  
+
 
 # ChatGPT Micro-Cap Experiment
 Welcome to the repo behind my 6-month live trading experiment where ChatGPT manages a real-money micro-cap portfolio.
